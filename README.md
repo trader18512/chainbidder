@@ -70,7 +70,7 @@ Traditional digital auctions suffer from manipulation, latency, and platform fra
 
 ```bash
 # Clone the repo
-git clone https://github.com/chainbidder/ic_chainbidder.git
+git clone https://github.com/trader18512/chainbidder.git
 cd ic_chainbidder
 
 # Start your local ICP replica
